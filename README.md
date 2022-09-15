@@ -4,7 +4,7 @@
 
 <img src = 'https://media.giphy.com/media/Dfea7WSf004kdKj5PP/giphy.gif' alt = 'Unity VFX' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/junaid-malik)  [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/c/JunaidMalik109)](https://www.youtube.com/c/JunaidMalik109)
+[![Linkedin Badge](https://img.shields.io/badge/-Junaid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/junaid-malik)  [![Youtube Channel](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/c/JunaidMalik109)](https://www.youtube.com/c/JunaidMalik109)
 <p align="left"> <img src="Junaid" alt="Junaid" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
