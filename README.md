@@ -14,6 +14,7 @@
 * .NET
 * Unreal Engine 5
 * Frontend and Backend Web Development
+* React JS / Next / Vercel
 
 
 ## Programming Languages
@@ -29,9 +30,9 @@
  	user = 'Junaid'
 		current_work = 'Developing awesome software'
 		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
+				'Travelling',
+				'Rading',
+				'Gym'
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
