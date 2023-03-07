@@ -57,9 +57,9 @@
  
  
 ## Current Works
- * Started learning MERN Stack !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting Started with NodeJS and the MERN Stack!!
+ * Started learning AI/ML tools
+ * I'm currently working on 🔭 building open source projects with Unity, .NET, React JS
+ * Getting Started with Kotlin, Generative AI, Open XR tools.
  
 ## Other Stuff
   - :octocat: [My Resume](https://www.junaidmalik.org)
