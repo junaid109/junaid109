@@ -1,4 +1,4 @@
-## <img src = 'https://media.giphy.com/media/Dfea7WSf004kdKj5PP/giphy.gif' alt = 'Unity VFX' align='right'/>
+## <img src = "https://media.giphy.com/media/Dfea7WSf004kdKj5PP/giphy.gif" width="528px" height="528px" alt ='Unity VFX' align='right'/>
 
 ## Hello, [Junaid here!](https://www.youtube.com/c/JunaidMalik109)  <img src="https://media.giphy.com/media/Dfea7WSf004kdKj5PP/giphy.gif" width="28px" height="28px">
 
