@@ -2,7 +2,7 @@
 
 ## Hello, [Junaid here!](https://www.youtube.com/c/JunaidMalik109)  <img src="https://media.giphy.com/media/Dfea7WSf004kdKj5PP/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome to my Github Digital World..</h1> 
+<h1>Welcome to my Github Profile.</h1> 
 
 ## 2023 PROJECTS SHOWREEL
 [![](https://markdown-videos.deta.dev/youtube/Pc1LgXRiYf8)](https://youtu.be/Pc1LgXRiYf8)
