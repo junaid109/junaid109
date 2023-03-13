@@ -1,3 +1,5 @@
+## <img src = 'https://media.giphy.com/media/Dfea7WSf004kdKj5PP/giphy.gif' alt = 'Unity VFX' align='right'/>
+
 ## Hello, [Junaid here!](https://www.youtube.com/c/JunaidMalik109)  <img src="https://media.giphy.com/media/Dfea7WSf004kdKj5PP/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my Github Digital World..</h1> 
@@ -5,7 +7,6 @@
 ## 2023 PROJECTS SHOWREEL
 [![](https://markdown-videos.deta.dev/youtube/Pc1LgXRiYf8)](https://youtu.be/Pc1LgXRiYf8)
 
-<img src = 'https://media.giphy.com/media/Dfea7WSf004kdKj5PP/giphy.gif' alt = 'Unity VFX' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Junaid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/junaid-malik)  [![Youtube Channel](https://img.shields.io/badge/-Junaid%Malik%20109-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/c/JunaidMalik109)](https://www.youtube.com/c/JunaidMalik109)
 <p align="left"> <img src="Junaid" alt="Junaid" /> </p>
